@@ -23,7 +23,7 @@ A collection of open-source projects by fusemachines. [![GitHub issues](https://
 ## Misc
 
 * [ScreenEat](https://github.com/NISH1001/ScreenEat) - Share your screen shot with sharable link online.
-
+* [Insta-crawler](https://github.com/sabinbajracharya/Insta-crawler) - Pulls data from instagram and saves it to Firebase for storage and Algolia for search
 
 # Contributing
 
