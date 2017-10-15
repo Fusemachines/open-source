@@ -1,6 +1,6 @@
 # Awesome Open-source
 
-A collection of open-source projects by fusemachines.
+A collection of open-source projects by fusemachines. [![GitHub issues](https://img.shields.io/github/issues/Fusemachines/open-source.svg)](https://github.com/Fusemachines/open-source/issues) [![GitHub forks](https://img.shields.io/github/forks/Fusemachines/open-source.svg)](https://github.com/Fusemachines/open-source/network) [![GitHub stars](https://img.shields.io/github/stars/Fusemachines/open-source.svg)](https://github.com/Fusemachines/open-source/stargazers)
 
 ## Chrome Extensions
 
