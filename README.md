@@ -9,7 +9,14 @@ A collection of open-source projects by fusemachines. [![GitHub issues](https://
 ## Plugins
 *Libraries for working with frameworks.*
 
-* [ember-rrssb](https://github.com/isaurssaurav/ember-rrssb) - ember addon of Ridiculously Responsive Social Sharing Buttons.
+* [ember-rrssb](https://github.com/isaurssaurav/ember-rrssb) - Ember addon of Ridiculously Responsive Social Sharing Buttons.
+* [ember-cli-notify](https://www.npmjs.com/package/ember-cli-notify) - Ember addon for Notification.
+* [ember-semantic-ui-dropdown](https://www.npmjs.com/package/ember-semantic-ui-dropdown) - Ember addon for Semantic UI dropdown.
+
+## Libraries
+
+* [github-web](https://www.npmjs.com/package/github-web) - This is a super simple command line module that creates a new github project along with HTML5 boilerplate.
+
 
 ## Components
 *Components for working with frameworks.*
