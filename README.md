@@ -5,6 +5,7 @@ A collection of open-source projects by fusemachines. [![GitHub issues](https://
 ## Chrome Extensions
 
 * [hydropump](https://github.com/shrsujan/hydropump) - A chrome extension that reminds you to drink water on a regular basis.
+* [workplace-sharer](https://github.com/sumn2u/workplace-sharer) - chrome extension to share media, images , text from any other media sources to workplace.
 
 ## Plugins
 *Libraries for working with frameworks.*
