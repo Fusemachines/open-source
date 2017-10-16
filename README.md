@@ -16,6 +16,7 @@ A collection of open-source projects by fusemachines. [![GitHub issues](https://
 ## Libraries
 
 * [github-web](https://www.npmjs.com/package/github-web) - This is a super simple command line module that creates a new github project along with HTML5 boilerplate.
+* [modalAnimate.js](https://github.com/sumn2u/modalAnimate.js) - modalAnimate.js is a jQuery plugin to create a fullscreen modal with CSS3 transitions.
 
 
 ## Components
@@ -31,6 +32,11 @@ A collection of open-source projects by fusemachines. [![GitHub issues](https://
 
 * [ScreenEat](https://github.com/NISH1001/ScreenEat) - Share your screen shot with sharable link online.
 * [Insta-crawler](https://github.com/sabinbajracharya/Insta-crawler) - Pulls data from instagram and saves it to Firebase for storage and Algolia for search.
+* [react-materialize-admin-template](https://github.com/sumn2u/react-materialize-admin-template) - Admin template written in react with material design along with other components.
+
+## Machine learning
+
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots.
 
 # Contributing
 
